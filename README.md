@@ -29,7 +29,10 @@ GPT-2 is **decoder-only**, meaning it uses:
 A pen-and-paper diagram illustrating how GPT-2 processes tokens.
 
 ![TransformerP1](https://github.com/user-attachments/assets/a1a960de-58b3-4d0b-89e2-2ebb1d7333cc)
-![TransformerP2](https://github.com/user-attachments/assets/5e4ac4f0-0d1a-44a8-8487-02907be83079)
+
+
+![TransformerP2](https://github.com/user-attachments/assets/c68a3197-85c1-4ea1-83c4-9a207022311a)
+
 
 #### Pipeline
 
@@ -155,3 +158,4 @@ This submission demonstrates a conceptual and modular understanding of **GPT-2â€
 - Autoregressive token processing
 - Learned positional embeddings
 - Causal masked self-attention
+
